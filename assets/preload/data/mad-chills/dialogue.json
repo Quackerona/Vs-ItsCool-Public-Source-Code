@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "itscool-iremix",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hello again"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "itscool-iremix",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "and i will rematch you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "itscool-iremix",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "and this time...."
+		},
+		{
+			"speed": 0.1,
+			"portrait": "itscool-iremix",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I WILL CRUSH YOUR BALLS!!!!!!"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "bf-iremix",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ":("
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "itscool",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "who are you?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "beep ske bap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bop bep ske bap beep boop bep beep bop beep bap bep bapdnsandsanoucbsxdbcsxa\\nncsancsancoinsaoincsaionciosanciosnaiocnisanc\\ndncsancsuaonciunsaocnsaoncoisancosabncosuan\\ncnsaiooncsaouncnuoosancosancjsaon\\ncnsaoncosancsaono\\ncnsaoncsaoncsao"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "itscool",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i mean you didnt have to say all of that to ask me to rapbattle."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "itscool",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "but ok lets do it"
+		}
+	]
+}

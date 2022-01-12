@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="itscool_assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ITSCOOL Idle Dance0000" x="0" y="0" width="419" height="695" pivotX="21.15" pivotY="-16.75"/>
+	<SubTexture name="ITSCOOL Idle Dance0001" x="0" y="0" width="419" height="695"/>
+	<SubTexture name="ITSCOOL Idle Dance0002" x="444" y="0" width="419" height="695"/>
+	<SubTexture name="ITSCOOL Idle Dance0003" x="444" y="0" width="419" height="695"/>
+	<SubTexture name="ITSCOOL Idle Dance0004" x="888" y="0" width="419" height="695"/>
+	<SubTexture name="ITSCOOL Idle Dance0005" x="888" y="0" width="419" height="695"/>
+	<SubTexture name="ITSCOOL Idle Dance0006" x="1332" y="0" width="419" height="695"/>
+	<SubTexture name="ITSCOOL Idle Dance0007" x="1332" y="0" width="419" height="695"/>
+	<SubTexture name="ITSCOOL Idle Dance0008" x="0" y="720" width="419" height="695"/>
+	<SubTexture name="ITSCOOL Idle Dance0009" x="0" y="720" width="419" height="695"/>
+	<SubTexture name="ITSCOOL Idle Dance0010" x="0" y="720" width="419" height="695"/>
+	<SubTexture name="ITSCOOL Idle Dance0011" x="0" y="720" width="419" height="695"/>
+	<SubTexture name="ITSCOOL Idle Dance0012" x="0" y="720" width="419" height="695"/>
+	<SubTexture name="ITSCOOL Idle Dance0013" x="0" y="720" width="419" height="695"/>
+	<SubTexture name="ITSCOOL Idle Dance0014" x="0" y="720" width="419" height="695"/>
+	<SubTexture name="ITSCOOL SING NOTE DOWN0000" x="444" y="720" width="436" height="550" pivotX="173.3" pivotY="292.95"/>
+	<SubTexture name="ITSCOOL SING NOTE DOWN0001" x="444" y="720" width="436" height="550"/>
+	<SubTexture name="ITSCOOL SING NOTE DOWN0002" x="905" y="720" width="436" height="550"/>
+	<SubTexture name="ITSCOOL SING NOTE DOWN0003" x="905" y="720" width="436" height="550"/>
+	<SubTexture name="ITSCOOL SING NOTE DOWN0004" x="905" y="720" width="436" height="550"/>
+	<SubTexture name="ITSCOOL SING NOTE DOWN0005" x="905" y="720" width="436" height="550"/>
+	<SubTexture name="ITSCOOL SING NOTE DOWN0006" x="905" y="720" width="436" height="550"/>
+	<SubTexture name="ITSCOOL SING NOTE DOWN0007" x="905" y="720" width="436" height="550"/>
+	<SubTexture name="ITSCOOL SING NOTE DOWN0008" x="905" y="720" width="436" height="550"/>
+	<SubTexture name="ITSCOOL SING NOTE DOWN0009" x="905" y="720" width="436" height="550"/>
+	<SubTexture name="ITSCOOL SING NOTE LEFT0000" x="1366" y="720" width="440" height="667" pivotX="224.15" pivotY="424.15"/>
+	<SubTexture name="ITSCOOL SING NOTE LEFT0001" x="1366" y="720" width="440" height="667"/>
+	<SubTexture name="ITSCOOL SING NOTE LEFT0002" x="0" y="1440" width="440" height="667"/>
+	<SubTexture name="ITSCOOL SING NOTE LEFT0003" x="0" y="1440" width="440" height="667"/>
+	<SubTexture name="ITSCOOL SING NOTE LEFT0004" x="0" y="1440" width="440" height="667"/>
+	<SubTexture name="ITSCOOL SING NOTE LEFT0005" x="0" y="1440" width="440" height="667"/>
+	<SubTexture name="ITSCOOL SING NOTE LEFT0006" x="0" y="1440" width="440" height="667"/>
+	<SubTexture name="ITSCOOL SING NOTE LEFT0007" x="0" y="1440" width="440" height="667"/>
+	<SubTexture name="ITSCOOL SING NOTE LEFT0008" x="0" y="1440" width="440" height="667"/>
+	<SubTexture name="ITSCOOL SING NOTE LEFT0009" x="0" y="1440" width="440" height="667"/>
+	<SubTexture name="ITSCOOL SING NOTE RIGHT0000" x="465" y="1440" width="373" height="685" pivotX="151.85" pivotY="422.25"/>
+	<SubTexture name="ITSCOOL SING NOTE RIGHT0001" x="465" y="1440" width="373" height="685"/>
+	<SubTexture name="ITSCOOL SING NOTE RIGHT0002" x="863" y="1440" width="373" height="685"/>
+	<SubTexture name="ITSCOOL SING NOTE RIGHT0003" x="863" y="1440" width="373" height="685"/>
+	<SubTexture name="ITSCOOL SING NOTE RIGHT0004" x="863" y="1440" width="373" height="685"/>
+	<SubTexture name="ITSCOOL SING NOTE RIGHT0005" x="863" y="1440" width="373" height="685"/>
+	<SubTexture name="ITSCOOL SING NOTE RIGHT0006" x="863" y="1440" width="373" height="685"/>
+	<SubTexture name="ITSCOOL SING NOTE RIGHT0007" x="863" y="1440" width="373" height="685"/>
+	<SubTexture name="ITSCOOL SING NOTE RIGHT0008" x="863" y="1440" width="373" height="685"/>
+	<SubTexture name="ITSCOOL SING NOTE RIGHT0009" x="863" y="1440" width="373" height="685"/>
+	<SubTexture name="ITSCOOL SING NOTE UP0000" x="1261" y="1440" width="393" height="691" pivotX="231.3" pivotY="426.95"/>
+	<SubTexture name="ITSCOOL SING NOTE UP0001" x="1261" y="1440" width="393" height="691"/>
+	<SubTexture name="ITSCOOL SING NOTE UP0002" x="0" y="2156" width="393" height="691"/>
+	<SubTexture name="ITSCOOL SING NOTE UP0003" x="0" y="2156" width="393" height="691"/>
+	<SubTexture name="ITSCOOL SING NOTE UP0004" x="0" y="2156" width="393" height="691"/>
+	<SubTexture name="ITSCOOL SING NOTE UP0005" x="0" y="2156" width="393" height="691"/>
+	<SubTexture name="ITSCOOL SING NOTE UP0006" x="0" y="2156" width="393" height="691"/>
+	<SubTexture name="ITSCOOL SING NOTE UP0007" x="0" y="2156" width="393" height="691"/>
+	<SubTexture name="ITSCOOL SING NOTE UP0008" x="0" y="2156" width="393" height="691"/>
+	<SubTexture name="ITSCOOL SING NOTE UP0009" x="0" y="2156" width="393" height="691"/>
+</TextureAtlas>

@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "inky",
+			"boxState": "normal",
+			"expression": "nervous",
+			"text": "damn you are really good at this"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "bap beep bep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "inky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you want another one?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "inky",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "sure"
+		}
+	]
+}

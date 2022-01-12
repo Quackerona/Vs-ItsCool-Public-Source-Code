@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="inky_dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="inkydialogue0000" x="0" y="0" width="318" height="604"/>
+	<SubTexture name="inkydialogue0001" x="0" y="0" width="318" height="604"/>
+	<SubTexture name="inkydialogue0002" x="0" y="0" width="318" height="604"/>
+	<SubTexture name="inkydialogue0003" x="0" y="0" width="318" height="604"/>
+	<SubTexture name="inkydialogue0004" x="0" y="0" width="318" height="604"/>
+	<SubTexture name="inkydialogue0005" x="0" y="0" width="318" height="604"/>
+	<SubTexture name="inkydialogue0006" x="0" y="0" width="318" height="604"/>
+	<SubTexture name="inkydialogue0007" x="0" y="0" width="318" height="604"/>
+	<SubTexture name="inkydialogue0008" x="0" y="0" width="318" height="604"/>
+	<SubTexture name="inkydialogue0009" x="0" y="0" width="318" height="604"/>
+	<SubTexture name="inkydialogue0010" x="0" y="0" width="318" height="604"/>
+	<SubTexture name="inkydialogue0011" x="0" y="0" width="318" height="604"/>
+	<SubTexture name="inkydialogue0012" x="0" y="0" width="318" height="604"/>
+	<SubTexture name="inkydialogue0013" x="0" y="0" width="318" height="604"/>
+	<SubTexture name="inkydialogue0014" x="0" y="0" width="318" height="604"/>
+	<SubTexture name="inkydialogue0015" x="0" y="0" width="318" height="604"/>
+	<SubTexture name="inkydialogue0016" x="0" y="0" width="318" height="604"/>
+	<SubTexture name="inkydialogue0017" x="0" y="0" width="318" height="604"/>
+	<SubTexture name="inkydialogue0018" x="0" y="0" width="318" height="604"/>
+	<SubTexture name="inkydialogue0019" x="0" y="0" width="318" height="604"/>
+	<SubTexture name="inkynervous0000" x="318" y="0" width="304" height="577"/>
+	<SubTexture name="inkynervous0001" x="318" y="0" width="304" height="577"/>
+	<SubTexture name="inkynervous0002" x="318" y="0" width="304" height="577"/>
+	<SubTexture name="inkynervous0003" x="318" y="0" width="304" height="577"/>
+	<SubTexture name="inkynervous0004" x="318" y="0" width="304" height="577"/>
+	<SubTexture name="inkynervous0005" x="318" y="0" width="304" height="577"/>
+	<SubTexture name="inkynervous0006" x="318" y="0" width="304" height="577"/>
+	<SubTexture name="inkynervous0007" x="318" y="0" width="304" height="577"/>
+	<SubTexture name="inkynervous0008" x="318" y="0" width="304" height="577"/>
+	<SubTexture name="inkynervous0009" x="318" y="0" width="304" height="577"/>
+	<SubTexture name="inkynervous0010" x="318" y="0" width="304" height="577"/>
+	<SubTexture name="inkynervous0011" x="318" y="0" width="304" height="577"/>
+	<SubTexture name="inkynervous0012" x="318" y="0" width="304" height="577"/>
+	<SubTexture name="inkynervous0013" x="318" y="0" width="304" height="577"/>
+	<SubTexture name="inkynervous0014" x="318" y="0" width="304" height="577"/>
+	<SubTexture name="inkynervous0015" x="318" y="0" width="304" height="577"/>
+	<SubTexture name="inkynervous0016" x="318" y="0" width="304" height="577"/>
+	<SubTexture name="inkynervous0017" x="318" y="0" width="304" height="577"/>
+	<SubTexture name="inkynervous0018" x="318" y="0" width="304" height="577"/>
+	<SubTexture name="inkynervous0019" x="318" y="0" width="304" height="577"/>
+	<SubTexture name="inkypissed0000" x="622" y="0" width="323" height="654"/>
+	<SubTexture name="inkypissed0001" x="622" y="0" width="323" height="654"/>
+	<SubTexture name="inkypissed0002" x="622" y="0" width="323" height="654"/>
+	<SubTexture name="inkypissed0003" x="622" y="0" width="323" height="654"/>
+	<SubTexture name="inkypissed0004" x="622" y="0" width="323" height="654"/>
+	<SubTexture name="inkypissed0005" x="622" y="0" width="323" height="654"/>
+	<SubTexture name="inkypissed0006" x="622" y="0" width="323" height="654"/>
+	<SubTexture name="inkypissed0007" x="622" y="0" width="323" height="654"/>
+	<SubTexture name="inkypissed0008" x="622" y="0" width="323" height="654"/>
+	<SubTexture name="inkypissed0009" x="622" y="0" width="323" height="654"/>
+	<SubTexture name="inkypissed0010" x="622" y="0" width="323" height="654"/>
+	<SubTexture name="inkypissed0011" x="622" y="0" width="323" height="654"/>
+	<SubTexture name="inkypissed0012" x="622" y="0" width="323" height="654"/>
+	<SubTexture name="inkypissed0013" x="622" y="0" width="323" height="654"/>
+	<SubTexture name="inkypissed0014" x="622" y="0" width="323" height="654"/>
+	<SubTexture name="inkypissed0015" x="622" y="0" width="323" height="654"/>
+	<SubTexture name="inkypissed0016" x="622" y="0" width="323" height="654"/>
+	<SubTexture name="inkypissed0017" x="622" y="0" width="323" height="654"/>
+	<SubTexture name="inkypissed0018" x="622" y="0" width="323" height="654"/>
+	<SubTexture name="inkypissed0019" x="622" y="0" width="323" height="654"/>
+</TextureAtlas>

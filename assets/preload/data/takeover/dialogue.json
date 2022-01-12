@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "inky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "who are you?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "inky",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "0h y0u ar3 bf fr0m Fr1day N1ght funkin!!???!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "beep bap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "inky",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "rapbattle me or get out of my house"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		}
+	]
+}

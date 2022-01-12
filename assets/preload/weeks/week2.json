@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"Coming Soon!",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": true,
+	"weekBackground": "tagm",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "The Final Showdown",
+	"weekName": "TAGM Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week4",
+	"startUnlocked": false
+}

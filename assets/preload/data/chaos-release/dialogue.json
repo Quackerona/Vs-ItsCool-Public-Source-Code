@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "inky",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "OK IM TIRED NOW"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "inky",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "IM TIRED OF YOUR BEEPS and BOOPS"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "inky",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "im going to end this song in space"
+		},
+		{
+			"speed": 0.115,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "beep......."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "inky",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "if you lose you stay in space"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "inky",
+			"boxState": "angry",
+			"expression": "nervous",
+			"text": "if you win...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "inky",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "i will bring you to another person i know"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "inky",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "he is waiting for you in another world"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "inky",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "so deal?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep (deal)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "inky",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "ok then"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "inky",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "this song is harder than you think so good luck."
+		}
+	]
+}

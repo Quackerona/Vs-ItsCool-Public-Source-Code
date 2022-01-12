@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "itscoolangry",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "OK IM DONE WITH YOUR STUPID RAP\\nBATTLES"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "itscoolangry",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "ALL OF THE PEOPLE YOU SING AGAINST\\nTHEY ALWAYS LOSE!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "itscoolangry",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "BUT IM NOT GOING TO MAKE THAT HAPPEN!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "itscoolangry",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "NO MATTER ON WHAT IT TAKES IM GOING\\nTO SMASH YOU INTO PIECES!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "..."
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"idle_anim": "inkyremix",
+	"image": "Menu_InkyRemix",
+	"position": [
+		381,
+		200
+	],
+	"scale": 0.85,
+	"confirm_anim": "inkyremix"
+}

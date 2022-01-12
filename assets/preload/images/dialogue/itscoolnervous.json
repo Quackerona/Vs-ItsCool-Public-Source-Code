@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		90,
+		-60
+	],
+	"scale": 1.05,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_name": "itscoolnervous",
+			"idle_name": "itscoolnervous"
+		}
+	],
+	"image": "ItsCool_Nervous_Dialogue"
+}

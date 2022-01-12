@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"takeover",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"ink-melt",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"chaos-release",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": true,
+	"weekBackground": "inky",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "INKY's HOUSE",
+	"weekName": "Inky Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": false
+}

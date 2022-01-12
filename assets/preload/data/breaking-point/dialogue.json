@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "beep bop bap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "itscoolnervous",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok why did you do that"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "itscoolnervous",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i cant really see now"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "i did it cause i was bored"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "itscoolnervous",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh so you can speak this whole time."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "........."
+		}
+	]
+}

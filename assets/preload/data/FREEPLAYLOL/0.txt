@@ -1,0 +1,6 @@
+sick-chills:itscoolnormal:0xFF6475F3
+breaking-point:itscoolnervous:0xFF6475F3
+final-showdown:itscoolgod:0xFF6475F3
+takeover:inky:0xFF9271FD
+ink-melt:inkyhalfangry:0xFF9271FD
+chaos-release:inkygod:0xFF9271FD

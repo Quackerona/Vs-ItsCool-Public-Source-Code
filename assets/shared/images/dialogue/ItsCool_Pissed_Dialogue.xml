@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ItsCool_Pissed_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="itscoolpissed0000" x="0" y="0" width="568" height="819" frameX="-29" frameY="-13" frameWidth="600" frameHeight="852"/>
+	<SubTexture name="itscoolpissed0001" x="0" y="0" width="568" height="819" frameX="-15" frameY="0" frameWidth="600" frameHeight="852"/>
+	<SubTexture name="itscoolpissed0002" x="0" y="0" width="568" height="819" frameX="-32" frameY="-11" frameWidth="600" frameHeight="852"/>
+	<SubTexture name="itscoolpissed0003" x="0" y="0" width="568" height="819" frameX="-8" frameY="-33" frameWidth="600" frameHeight="852"/>
+	<SubTexture name="itscoolpissed0004" x="0" y="0" width="568" height="819" frameX="-20" frameY="-19" frameWidth="600" frameHeight="852"/>
+	<SubTexture name="itscoolpissed0005" x="0" y="0" width="568" height="819" frameX="0" frameY="-4" frameWidth="600" frameHeight="852"/>
+	<SubTexture name="itscoolpissed0006" x="0" y="0" width="568" height="819" frameX="-15" frameY="-28" frameWidth="600" frameHeight="852"/>
+	<SubTexture name="itscoolpissed0007" x="0" y="0" width="568" height="819" frameX="-29" frameY="-13" frameWidth="600" frameHeight="852"/>
+</TextureAtlas>

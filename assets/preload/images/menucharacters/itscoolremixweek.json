@@ -1,0 +1,10 @@
+{
+	"idle_anim": "weekc",
+	"image": "Menu_ItsCoolRemix",
+	"position": [
+		281,
+		130
+	],
+	"scale": 0.85,
+	"confirm_anim": "weekc"
+}

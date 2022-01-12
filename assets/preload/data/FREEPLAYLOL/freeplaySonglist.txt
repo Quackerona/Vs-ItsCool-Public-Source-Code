@@ -1,0 +1,3 @@
+Story Mode:itscoolnormal:0xFF6475F3
+Bonus Songs:itscoolnormal:0xFFE01F32
+Remixes:itscoolnormal:0xFF4494E6

@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"sick-chills",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"breaking-point",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"final-showdown",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": true,
+	"weekBackground": "itscool",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "ROBLOX YOUTUBERDiwaisufbcdiubscijzx",
+	"weekName": "ItsCool Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

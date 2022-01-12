@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Dad idle dance BLACK LINE",
+	"image": "Menu_itscool",
+	"position": [
+		141,
+		109
+	],
+	"scale": 0.55,
+	"confirm_anim": "M Dad Idle"
+}

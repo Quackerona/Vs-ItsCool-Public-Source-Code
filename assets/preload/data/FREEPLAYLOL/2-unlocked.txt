@@ -1,0 +1,7 @@
+endless:itscoolnormal:0xFF6475F3
+madness:itscoolnormal:0xFF53E52C
+diva:inky:0xFF9271FD
+accelerant:thebros:0xFFE01F32
+you-cant-run:itscoolgod:0xFFE01F32
+no-villains:itscoolnormal:0xFF6475F3
+freedom:itscoolnormal:0xFF9271FD

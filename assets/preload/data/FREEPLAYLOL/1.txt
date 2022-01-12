@@ -1,0 +1,4 @@
+tutorial-remix:gfinsaneremix:0xFF4494E6
+mad-chills:insaneitscoolnormal:0xFF4494E6
+raging-point:insaneitscoolnervous:0xFF4494E6
+fire-showdown:insaneitscoolgod:0xFF4494E6
